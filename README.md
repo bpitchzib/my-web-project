@@ -1,2 +1,10 @@
-# my-web-project
-My HTML CSS JavaScript Project
+# My Web Project
+
+This is my assignment project.
+
+Languages used:
+- HTML
+- CSS
+- JavaScript
+
+Created using GitHub.
